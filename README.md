@@ -1,4 +1,4 @@
- 📊 Z2 Dataset - SQL Data Analysis Project
+ 📊 Zepto Dataset - SQL Data Analysis Project
 
 🔍 Overview
 
